@@ -23,3 +23,7 @@ class Prompt:
 
     def generate_prompt(self):
         return '\n'.join(self.msg_list)
+
+"""
+test code for testing rebase
+"""
