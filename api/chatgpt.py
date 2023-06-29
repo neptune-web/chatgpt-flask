@@ -28,3 +28,8 @@ class ChatGPT:
 
     def add_msg(self, text):
         self.prompt.add_msg(text)
+
+
+"""
+test code for testing rebase
+"""
